@@ -1,0 +1,16 @@
+# OS files
+.DSstore
+.bash_history
+Dockerfile
+
+# Secret folders
+.git/
+.gitignore
+README.md
+
+# env folders / variables
+venv/
+.idea/
+.pytest_cache/
+.cache/
+deep_cell_seg.egg-info/

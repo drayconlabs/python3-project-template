@@ -1,0 +1,4 @@
+first_key: 123
+second_key: 456
+nested_dict:
+  inner_dict_key: 789
